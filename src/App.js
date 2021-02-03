@@ -1,6 +1,7 @@
 import './App.css';
 import Formulair from './component/formulair'
 import Navbar from './component/navbar'
+import Footer from './component/footer'
 
 function App() {
   return (
@@ -8,6 +9,8 @@ function App() {
 
      <Navbar/>
      <Formulair/>
+     <Footer/>
+
 
     </div>
   );
