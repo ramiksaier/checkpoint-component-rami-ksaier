@@ -6,11 +6,11 @@ const Nabar = () => {
     return (
         <div>
             <Navbar bg="dark" variant="dark">
-                <Navbar.Brand href="#home">About me </Navbar.Brand>
+                <Navbar.Brand href="#home">About MOvies </Navbar.Brand>
                 <Nav className="mr-auto">
                     <Nav.Link href="#home"></Nav.Link>
-                    <Nav.Link href="#features">Introduction</Nav.Link>
-                    <Nav.Link href="#pricing">More</Nav.Link>
+                    <Nav.Link href="#features">movies</Nav.Link>
+                    <Nav.Link href="#pricing">movies</Nav.Link>
                 </Nav>
                 <Form inline>
                     <FormControl type="text" placeholder="Search" className="mr-sm-2" />
